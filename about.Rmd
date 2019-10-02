@@ -1,8 +1,5 @@
 ---
 title: "About me"
 ---
+Hello, my name's Némo Lemaire. I study Biology at Umons in second degree (Bab2). My english course is given by mis Ingrid van Lancker; I'm in the first group for the academic years 2019-2020.
 
-
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
