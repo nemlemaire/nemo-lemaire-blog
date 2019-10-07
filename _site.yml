@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Nemo's Blog"
+title: "Biomimicry"
 output_dir: "docs"
 navbar:
   right:
