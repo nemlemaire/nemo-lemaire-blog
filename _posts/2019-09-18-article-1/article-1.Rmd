@@ -36,27 +36,27 @@ In other words, the features had a strong retention influence. They trapped and 
 
 | Words from the text | Synonym/explanation in English | Translation|
 | ------------------- | ------------------------------ |------------|
-| Water-repellent     |                    |   |
-| requirement         | Not too distant future         |            |
-| lubricated          |                                |            |
-| carnivorous pitcher plant| |  |
-| pitfall traps|  |  |
-| peristome|  |  |
-| slopings|  |  |
-| ridges|  |  |
-| shortfall|  |  |
-| droplets|  |  |
-| liquid-shedding|  |  |
-| harnessing|  |  |
-| insights|  |  |
-| grooves|  |  |
+| Water-repellent     | Waterproof / Not easily penetrated by water, generally due to a surface coating. | Déperlant |
+| requirement         | Compulsary / Something that is needed, a neccesary condition. | exigence, néccesité  |
+| lubricated          | Make slippery / Apply a substance (oil or grease) for minimizing the friction and obtaining smooth movement. | lubrifier, huiler |
+| carnivorous pitcher plant| Carnivorous plants / Plants that gets some of their nutrients, from arthropods and insect, by consumming them. Pitcher plants have modified leaves known as pitfall traps, which contains a deep cavity filled with digestive liquids.| plante carnivore |
+| pitfall traps| Trap / A (usually concealed) pit used as a trap to lure insect or other small animals. | piège, piège à fosse |
+| peristome| / / An anatomical feature that surrounds an opening to an organ or structure; in our context the "mouth" of the carnivorous plant. | Péristome |
+| slopings| leaning / inclined from a horizontal or vertical line | Incliné, en pente |
+| ridges| arête / a long, narrow raised part of a surface | crêtes, arêtes |
+| shortfall| lack / a failure to get what is expected or needed | lacune |
+| droplets| drop of water / a small drop of liquid | gouttelette |
+| liquid-shedding| water-repellent / Not easily pierced by water. | imperméable aux liquides |
+| harnessing| utilizing / to collect and control something so that it can be used efficently | exploitation |
+| insights| overview / A deep understanding of something; can also be used to describe a quick peek into something. | aperçu |
+| grooves| rainure / A long, narrow space in the surface of a body part. | rainure |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
+| Researchers                  | University of Oxford: Jian Guan (postdoctoral research assistant in fluid mechanics), Finn Box (Post-Doctoral Research Associate in fluid mechanics), Chris Thorogood (Deputy Director and Head of Science at Oxford Botanic Garden and Arboretum) |
+| Published in?                | The Royal Society publishing (09/04/2019)                        |
 | General topic?               |  (summarize the topic in one or two sentences)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
