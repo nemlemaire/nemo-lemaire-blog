@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "How can Nature brighten up our future?"
 site: distill::distill_website
 listing: posts
 ---
