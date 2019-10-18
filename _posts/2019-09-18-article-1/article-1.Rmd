@@ -34,22 +34,22 @@ In other words, the features had a strong retention influence. They trapped and 
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English | Translation|
+| Words from the text | Synonym/explanation in English | Translation in French|
 | ------------------- | ------------------------------ |------------|
 | Water-repellent     | Waterproof / Not easily penetrated by water, generally due to a surface coating. | Déperlant |
-| requirement         | Compulsary / Something that is needed, a neccesary condition. | exigence, néccesité  |
-| lubricated          | Make slippery / Apply a substance (oil or grease) for minimizing the friction and obtaining smooth movement. | lubrifier, huiler |
-| carnivorous pitcher plant| Carnivorous plants / Plants that gets some of their nutrients, from arthropods and insect, by consumming them. Pitcher plants have modified leaves known as pitfall traps, which contains a deep cavity filled with digestive liquids.| plante carnivore |
-| pitfall traps| Trap / A (usually concealed) pit used as a trap to lure insect or other small animals. | piège, piège à fosse |
-| peristome| / / An anatomical feature that surrounds an opening to an organ or structure; in our context the "mouth" of the carnivorous plant. | Péristome |
-| slopings| leaning / inclined from a horizontal or vertical line | Incliné, en pente |
-| ridges| arête / a long, narrow raised part of a surface | crêtes, arêtes |
-| shortfall| lack / a failure to get what is expected or needed | lacune |
-| droplets| drop of water / a small drop of liquid | gouttelette |
-| liquid-shedding| water-repellent / Not easily pierced by water. | imperméable aux liquides |
-| harnessing| utilizing / to collect and control something so that it can be used efficently | exploitation |
-| insights| overview / A deep understanding of something; can also be used to describe a quick peek into something. | aperçu |
-| grooves| rainure / A long, narrow space in the surface of a body part. | rainure |
+| Requirement         | Compulsary / Something that is needed, a necessary condition. | exigence, nécessité  |
+| Lubricated          | Make slippery / Apply a substance (oil or grease) for minimizing the friction and obtaining smooth movement. | lubrifier, huiler |
+| Carnivorous pitcher plant| Carnivorous plants / Plants that get some of their nutrients, from arthropods and insect, by consumming them. Pitcher plants have modified leaves known as pitfall traps, which contains a deep cavity filled with digestive liquids.| plante carnivore |
+| Pitfall traps| Trap / A pit, usually concealed, used as a trap to lure insects or other small animals. | piège, piège à fosse |
+| Peristome| - / An anatomical feature that surrounds an opening to an organ or structure; in our context the "mouth" of the carnivorous plant. | Péristome |
+| Slopings| leaning / Inclined from a horizontal or vertical line. | Incliné, en pente |
+| Ridges| arête / A long, narrow raised part of a surface. | crêtes, arêtes |
+| Shortfall| lack / A failure to get what is expected or needed. | lacune |
+| Droplets| drop of water / A small drop of liquid. | gouttelette |
+| Liquid-shedding| water-repellent / Not easily pierced by water. | imperméable aux liquides |
+| Harnessing| utilizing / To collect and control something so that it can be used efficently. | exploitation |
+| Insights| overview / A deep understanding of something; can also be used to describe a quick peek into something. | aperçus |
+| Grooves| rainure / A long, narrow space in the surface of a body part. | rainures |
 
 ## Analysis table 
 
