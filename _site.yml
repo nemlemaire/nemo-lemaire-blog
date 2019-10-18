@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Miscellaneous"
+    - text: "My english activity log"
       href: english-activity.html
     - text: "About"
       href: about.html
