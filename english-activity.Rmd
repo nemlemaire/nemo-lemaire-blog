@@ -25,4 +25,8 @@ title: "My english activity log"
 
 ## Magazines:
 
-## Outdoor event:
+## Games:
+- "Danganronpa 1-2 reloaded", Spike Chunsoft
+- "Odin sphere leiftdrasir", Atlus
+
+## Outdoor events:
