@@ -1,11 +1,11 @@
 ---
 title: "Article 1 : SLIPS and pitfalls: Synthetic surfaces inspired by a pitcher pitfall trap"
 author:
-  - name: Jian Guan, Finn Box and Chris Thorogood, University of Oxford
-date: 09-13-2019
+  - name: Némo Lemaire
+date: 10-16-2019
 categories:
   - Plants
-  - Slippery surface
+  - Synthetic surface
 preview: image/pitcher.jpg
 output:
   distill::distill_article:
