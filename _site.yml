@@ -14,5 +14,6 @@ navbar:
 base_url: https://nemlemaire.github.io/nemo-lemaire-blog/
 collections:
     posts:
+      disqus: nemo-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
