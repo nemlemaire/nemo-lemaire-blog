@@ -27,6 +27,6 @@ title: "My english activity log"
 
 ## Games:
 - "Danganronpa 1-2 reloaded", Spike Chunsoft
-- "Odin sphere leiftdrasir", Atlus
+- "Odin sphere leifthrasir", Atlus
 
 ## Outdoor events:
