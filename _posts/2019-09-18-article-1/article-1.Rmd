@@ -18,10 +18,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ![Credit: The Royal Society Images](image/pitcher.jpg)
-## Article (url) and words count
 
-URL of the article:<https://phys.org/news/2019-09-pitfalls-synthetic-surfaces-pitcher-pitfall.html> (13 september 2019)
-words: 579
+## Article (url) and word count
+
+ * URL of the article: <https://phys.org/news/2019-09-pitfalls-synthetic-surfaces-pitcher-pitfall.html> (13 september 2019)
+
+ * word: 579
 
 ## Vocabulary 
 
@@ -49,7 +51,7 @@ words: 579
 | Researchers                  | University of Oxford: Jian Guan (postdoctoral research assistant in fluid mechanics), Finn Box (Post-Doctoral Research Associate in fluid mechanics), Chris Thorogood (Deputy Director and Head of Science at Oxford Botanic Garden and Arboretum) |
 | Published in?                | The Royal Society publishing (09/04/2019)                        |
 | General topic?               | How can we take inspiration from the slippery peristome of carnivorous pitcher plants and use it to improve water transport.|
-| Procedure/what was examined? | 1. Observation of different water-repellent natural surface (mostly the peristome of Nephentes, but also ants and flies).                        2. Creation of various models (trenches and steps),based on the previously studied surface and observation of the behaviour of liquids droplets on it.|
+| Procedure/what was examined? | 1) Observation of different water-repellent natural surface (mostly the peristome of Nephentes, but also ants and flies). 2) Creation of various models (trenches and steps),based on the previously studied surface and observation of the behaviour of liquids droplets on it.|
 | Conclusions/discovery?       | The droplets in contact with the materials became strongly adhered (they wouldn't fall off easily) but could freely move alongside the groove even at shallow angles; allowing the liquid's movement to be controled to a certain extend.|
 | Remaining questions?         | / |
 
