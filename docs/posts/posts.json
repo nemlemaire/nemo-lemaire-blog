@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-10-29-article-2/",
+    "title": "Article 2:",
+    "description": {},
+    "author": [
+      {
+        "name": "Némo Lemaire",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-29",
+    "categories": [
+      "-example -example"
+    ],
+    "preview": {},
+    "last_modified": "2019-10-29T18:03:27+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : SLIPS and pitfalls: Synthetic surfaces inspired by a pitcher pitfall trap",
     "description": {},
@@ -15,6 +32,6 @@
       "Synthetic surface"
     ],
     "preview": "posts/2019-09-18-article-1/image/pitcher.jpg",
-    "last_modified": "2019-10-23T16:51:43+02:00"
+    "last_modified": "2019-10-23T16:51:44+02:00"
   }
 ]
