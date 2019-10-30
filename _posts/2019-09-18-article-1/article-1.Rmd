@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Article (url) and word count
 
- * URL of the article: <https://phys.org/news/2019-09-pitfalls-synthetic-surfaces-pitcher-pitfall.html> (13 september 2019)
+ * URL of the article: <https://phys.org/news/2019-09-pitfalls-synthetic-surfaces-pitcher-pitfall.html> (13 September 2019)
 
  * word: 579
 

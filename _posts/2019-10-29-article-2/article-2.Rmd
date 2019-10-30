@@ -1,11 +1,11 @@
 ---
-title: "Article 2:"
+title: "Article 2: Color-changing artificial 'chameleon skin' powered by nanomachines"
 author:
   - name: Némo Lemaire
 date: 10-29-2019
 categories:
-  -example
-  -example
+  - example
+  - example
 preview:
 output:
   distill::distill_article:
@@ -20,9 +20,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Article (url) and word count
 
-* URL of the article: 
+* URL of the article: <https://www.sciencedaily.com/releases/2019/08/190821111820.htm> (21 August 2019)
 
-* word: 
+* word: 502
 
 ## Vocabulary 
 
