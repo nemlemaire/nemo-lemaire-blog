@@ -6,7 +6,7 @@ date: 10-29-2019
 categories:
   - example
   - example
-preview:
+preview: image_texte/chameleon.gif
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![]()
+![Credit: Giphy gif](image_texte/chameleon.gif)
 
 ## Article (url) and word count
 
