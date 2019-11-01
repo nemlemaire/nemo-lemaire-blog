@@ -48,7 +48,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | To peel | to skin / To remove a thin layer covering something. | se retirer |
 | Illumination | light/ Lighting | illumination |
 | Nanoscale | - / A scale of 10^9 metre. | échelle nanoscopique |
-| Roll-to-roll films | R2R processing / Manufacturing technique involving continuous processing of a flexible substrate as it is transferred between two moving rolls. | - |
+| Roll-to-roll | R2R processing / Manufacturing technique involving continuous processing of a flexible substrate as it is transferred between two moving rolls. | - |
 | To herd | To gather / To put together. | rassembler en troupeau |
 | To fund | To finance /  To provide with money. | financer |
 
@@ -56,9 +56,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | University of Cambridge: Andrew R. Salmon (EPSRC CDT in Nanoscience and Nanotechnology, doctorate), Sean Cormier (NanoPhotonics Centre), Wenting Wang (department of Chemistry, postgraduate student), Chris Abell (Department of Chemistry, professor in medical science), Jeremy J. Baumberg (Department of Physics, professor of nanophotonics) |
+| Researchers                  | University of Cambridge: Andrew R. Salmon (doctorate in Nanoscience and Nanotechnology), Sean Cormier (NanoPhotonics Centre), Wenting Wang (department of Chemistry, postgraduate student), Chris Abell (Department of Chemistry, professor in medical science), Jeremy J. Baumberg (Department of Physics, professor of nanophotonics) |
 | Published in?                | Advanced Optical Materials; under the name:"Motile Artificial Chromatophores: Light‐Triggered Nanoparticles for Microdroplet Locomotion and Color Change" (08/20/2019)|
-| General topic?               |    |
-| Procedure/what was examined? |    |
-| Conclusions/discovery?       |    |
-| Remaining questions?         |    |
+| General topic?               | How can we use the photometric properties of gold coated nanomachines, inside water droplets, in order to develop genuine color-changing materials. |
+| Procedure/what was examined? | 1) Creation of nanoparticules covered by a polymer shell. 2) squeezed into microdroplets of water (creating an artificial "cell") floating inside oil. 3) Exposure to light or heat.|
+| Conclusions/discovery?       | When exposed to heat the nanomachines will try to stick together forming a cluster, expelling all the water, and ,depending on the herd shape, will sport a new color (just like a chameleon skin). When cooled, they reabsorb the water and get back to their original organisation. Light as also an effect on them, they propulse themselves towards the light sources by producing bubbles. |
+| Remaining questions?         | What are the effects of the shapes and materials ,from the nanomachines, on the obtained color? What collective behaviours could be adopted by the herd of nanoparticules when using structured light? |

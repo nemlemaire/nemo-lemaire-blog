@@ -3,6 +3,7 @@ title: "My english activity log"
 ---
 
 ## Films:
+- "Pulp fiction", Quentin Tarantino, 1994
 - "Inglourious Basterds", Quentin Tarantino, 2009
 - "Fear and Loathing in Las Vegas", Terry Gilliam, 1998
 
@@ -25,6 +26,7 @@ title: "My english activity log"
 - "The prophecy", Chris Kuzneski
 - "Norse mytology", Neil Gaiman
 - "Breverton's phantasmgoria; a compendium of monsters, myths and legeds",Terry Breverton
+
 ## Magazines:
 
 ## Games:

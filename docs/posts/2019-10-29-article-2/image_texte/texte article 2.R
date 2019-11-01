@@ -10,13 +10,13 @@ When the material is heated above 32C, the nanoparticles store large amounts of 
 
 "**Loading** the nanoparticles into the microdroplets allows us to control the shape and size of the clusters, giving us dramatic colour changes," said Dr Andrew Salmon from Cambridge's Cavendish Laboratory, the study's co-first author.
 
-The geometry of the nanoparticles when they bind into clusters determines which colour they appear as: when the nanoparticles are spread apart they are red and when they cluster together they are dark blue. However, the droplets of water also compress the particle clusters, causing them **to shadow** each other and make the clustered **state** nearly transparent.
+The geometry of the nanoparticles when they bind into clusters determines which colour they appear as: when the nanoparticles are spread apart they are red and when they cluster together they are dark blue. However, the droplets of water also compress the particle clusters, causing them **to shadow** each other and make the clustered state nearly transparent.
 
 At the moment, the material developed by the Cambridge researchers is in a single **layer**, so is only able to change to a single colour. However, different nanoparticle materials and shapes could be used in extra layers to make a fully dynamic material, like real chameleon skin.
 
 The researchers also observed that the artificial cells can 'swim' in simple ways, similar to the algae Volvox. Shining a light on one **edge** of the droplets causes the surface **to peel** towards the light, pushing it forward. Under stronger **illumination**, high pressure bubbles briefly form to push the droplets along a surface.
 
-"This work is a big advance in using **nanoscale** technology to do biomimicry," said co-author Sean Cormier. "We're now working to replicate this on **roll-to-roll films** so that we can make metres of colour changing sheets. Using structured light we also plan to use the light-triggered swimming to '**herd**' droplets. It will be really exciting to see what collective behaviours are generated."
+"This work is a big advance in using **nanoscale** technology to do biomimicry," said co-author Sean Cormier. "We're now working to replicate this on **roll-to-roll** films so that we can make metres of colour changing sheets. Using structured light we also plan to use the light-triggered swimming to '**herd**' droplets. It will be really exciting to see what collective behaviours are generated."
 
 The research was **funded** by the European Research Council (ERC) and the Engineering and Physical Sciences Research Council (EPSRC).
 
