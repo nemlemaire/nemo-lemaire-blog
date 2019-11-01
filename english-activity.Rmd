@@ -22,7 +22,9 @@ title: "My english activity log"
 ## Books:
 - "Alice in wonderland", Lewis Carroll, 1865
 - "Tales of Mystery and Imagination", Edgar Allan Poe
-
+- "The prophecy", Chris Kuzneski
+- "Norse mytology", Neil Gaiman
+- "Breverton's phantasmgoria; a compendium of monsters, myths and legeds",Terry Breverton
 ## Magazines:
 
 ## Games:

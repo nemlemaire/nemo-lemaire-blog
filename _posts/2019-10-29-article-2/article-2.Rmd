@@ -4,8 +4,8 @@ author:
   - name: Némo Lemaire
 date: 10-29-2019
 categories:
-  - example
-  - example
+  - Synthetic surface
+  - Reptiles
 preview: image_texte/chameleon.gif
 output:
   distill::distill_article:
@@ -56,8 +56,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |    |
-| Published in?                |    |
+| Researchers                  | University of Cambridge: Andrew R. Salmon (EPSRC CDT in Nanoscience and Nanotechnology, doctorate), Sean Cormier (NanoPhotonics Centre), Wenting Wang (department of Chemistry, postgraduate student), Chris Abell (Department of Chemistry, professor in medical science), Jeremy J. Baumberg (Department of Physics, professor of nanophotonics) |
+| Published in?                | Advanced Optical Materials; under the name:"Motile Artificial Chromatophores: Light‐Triggered Nanoparticles for Microdroplet Locomotion and Color Change" (08/20/2019)|
 | General topic?               |    |
 | Procedure/what was examined? |    |
 | Conclusions/discovery?       |    |
