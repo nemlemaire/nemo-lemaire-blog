@@ -28,7 +28,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English | Translation in French|
 | ------------------- | ------------------------------ |------------|
-|             |            |         |
+|    Skin       |            |         |
+|    Applications       |            |         |
+|    Dynamic dipslays       |            |         |
+|    To coat       |            |         |
+|    Polymer       |            |         |
+|     To squeeze      |            |         |
+|  Microdroplets  |            |         |
+|   Cuttlefish        |            |         |
+|   Chromatophores       |            |         |
+|   Pigments        |            |         |
+|   To rely on        |            |         |
+|   Elastic energy        |            |         |
+|   To bind        |            |         |
+|   Clusters        |            |         |
+|    To load       |            |         |
+|    To shadow       |            |         |
+|    State       |            |         |
+|    Layer       |            |         |
+|    Edge       |            |         |
+|    To peel towards       |            |         |
+|  Illumination         |            |         |
+|   Nanoscale        |            |         |
+|   Roll-to-roll films        |            |         |
+|   Herd       |            |         |
+|    Behaviours       |            |         |
+|    Funded       |            |         |
 
 ## Analysis table 
 
