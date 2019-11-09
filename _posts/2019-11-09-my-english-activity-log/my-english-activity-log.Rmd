@@ -1,0 +1,54 @@
+---
+title: "My English Activity Log"
+author:
+  - name: Némo Lemaire
+date: 11-09-2019
+categories:
+  - M.E.A.L.
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Date to date:
+
+09/11/2019: I nearly finished rereading "Norse Mythology" from Neil Gaiman. As I remembered the books is really interesting, the writter took inspiration from two olds translations: "Prose Edda" and "Poetic Edda" (respectivly written in the  XIII century). The last chapter that I read was about Loki's children and how their presence at the end of everything will bring demise to the gods.
+
+# Right to the point:
+## Films:
+- "Pulp fiction", Quentin Tarantino, 1994
+- "Inglourious Basterds", Quentin Tarantino, 2009
+- "Fear and Loathing in Las Vegas", Terry Gilliam, 1998
+
+## TV series:
+- "Doctor Who"
+- "Sherlock Holmes"
+
+## Podcasts:
+- "World War Ant", Kurzgesagt
+- "Ant Megacolony", Kurzgesagt
+- "Angry Video Game Nerd", Cinemassacre
+- Channel awesome
+- "By the way, can you...", DanPlan
+- Mythology & Fiction Explained
+- Scott The Woz
+
+## Books:
+- "Alice in wonderland", Lewis Carroll, 1865
+- "Tales of Mystery and Imagination", Edgar Allan Poe
+- "The prophecy", Chris Kuzneski
+- "Norse mytology", Neil Gaiman
+- "Breverton's phantasmgoria; a compendium of monsters, myths and legeds",Terry Breverton
+
+## Magazines:
+
+## Games:
+- "Danganronpa 1-2 reloaded", Spike Chunsoft
+- "Odin sphere leifthrasir", Atlus
+
+## Outdoor events:
+
