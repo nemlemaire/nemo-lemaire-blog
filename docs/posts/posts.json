@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-11-10-article-3/",
+    "title": "article-3: Clingfish biology inspires better suction cup",
+    "description": {},
+    "author": [
+      {
+        "name": "Némo Lemaire",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-10",
+    "categories": [
+      "Fish",
+      "Suction cup"
+    ],
+    "preview": "posts/2019-11-10-article-3/article-3_files/clingfish.jpg",
+    "last_modified": "2019-11-10T21:36:25+01:00"
+  },
+  {
     "path": "posts/2019-11-09-my-english-activity-log/",
     "title": "My English Activity Log",
     "description": {},
@@ -14,7 +32,7 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2019-11-09T12:29:24+01:00"
+    "last_modified": "2019-11-10T17:06:53+01:00"
   },
   {
     "path": "posts/2019-10-29-article-2/",

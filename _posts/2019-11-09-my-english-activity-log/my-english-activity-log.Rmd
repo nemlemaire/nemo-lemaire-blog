@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - "Tales of Mystery and Imagination", Edgar Allan Poe
 - "The prophecy", Chris Kuzneski
 - "Norse mytology", Neil Gaiman
-- "Breverton's phantasmgoria; a compendium of monsters, myths and legeds",Terry Breverton
+- "Breverton's phantasmgoria; a compendium of monsters, myths and legends",Terry Breverton
 
 ## Magazines:
 
