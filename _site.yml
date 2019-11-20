@@ -14,5 +14,6 @@ collections:
     posts:
       disqus: nemo-blog
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
-
+output:
+  distill::distill_article:
+    css: style.css
