@@ -1,0 +1,43 @@
+---
+title: "article-5: Combination of wood fibers and spider silk could rival plastic"
+author:
+  - name: Némo Lemaire
+date: 11-25-2019
+categories:
+
+preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![]()
+
+## Article (URL) and word count
+
+* URL of the article: <https://www.sciencedaily.com/releases/2019/09/190916101845.htm> (16 september 2019)
+
+* Word: 390
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | Translation in French|
+| ------------------- | ------------------------------ |------------|
+| 
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |  |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         | / |
+
+

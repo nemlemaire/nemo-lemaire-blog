@@ -1,0 +1,42 @@
+---
+title: "article-4: A polar-bear-inspired material for heat insulation"
+author:
+  - name: Némo Lemaire
+date: 11-25-2019
+categories:
+
+preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![]()
+
+## Article (URL) and word count
+
+* URL of the article: <https://www.sciencedaily.com/releases/2019/06/190606150317.htm> (06 june 2019)
+
+* Word: 475
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English | Translation in French|
+| ------------------- | ------------------------------ |------------|
+| 
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  |  |
+| Published in?                |  |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         | / |
+
