@@ -2,7 +2,7 @@
 title: "article-5: Combination of wood fibers and spider silk could rival plastic"
 author:
   - name: Némo Lemaire
-date: 11-25-2019
+date: 12-03-2019
 categories:
 
 preview:
