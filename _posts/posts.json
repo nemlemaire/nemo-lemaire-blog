@@ -12,7 +12,7 @@
     "date": "2019-12-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-01T11:15:39+01:00"
+    "last_modified": "2019-11-28T10:39:39+01:00"
   },
   {
     "path": "posts/2019-11-25-article-4/",
@@ -25,13 +25,9 @@
       }
     ],
     "date": "2019-11-25",
-    "categories": [
-      "Mammals",
-      "Heat insulation",
-      "Synthetic surface"
-    ],
-    "preview": "posts/2019-11-25-article-4/article-4_files/polar-bear.jpg",
-    "last_modified": "2019-12-01T14:33:36+01:00"
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-28T10:39:24+01:00"
   },
   {
     "path": "posts/2019-11-10-article-3/",
@@ -102,6 +98,6 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2019-12-01T11:13:11+01:00"
+    "last_modified": "2019-11-29T23:51:48+01:00"
   }
 ]

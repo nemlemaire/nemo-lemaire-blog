@@ -18,10 +18,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 26/11/2019: I watched a bunch of podcast from BBC (got a bit carried away), here's some of them: "**Meet the World's Tiniest Trees! | From Plant to Planet with Nellie Nilsen | BBC Earth**" (<https://www.youtube.com/watch?v=7-_C1WaCnno>), "**Weirdest Animal Relationships | Top 5 | BBC Earth**" (<https://www.youtube.com/watch?v=s9KvEg102Tc>), "**The deadly tentacles of the Portuguese man o' war | Blue Planet II - BBC One**" (<https://www.youtube.com/watch?v=gr1ps0ooDhU>), "**Hungry Venus flytraps snap shut on a host of unfortunate flies | Life - BBC**" (<https://www.youtube.com/watch?v=O7eQKSf0LmY>)
 
-25/11/2019: I watched a video about the "Pygmalion effect" (<https://www.youtube.com/watch?v=4aN5TbGW5JA>); to put it simply this psychological phenomena explain how the belief of others about us can affect our expectation and thus modifying their belief in consequence wich will the reaffect us, etc and etc. 
+25/11/2019: I watched a video about the "Pygmalion effect" (<https://www.youtube.com/watch?v=4aN5TbGW5JA>); to put it simply this psychological phenomena explain how the belief of others about us can affect our expectation and thus modifying their belief in consequence wich will then reaffect us, and so on.
  I also watched two videos from TE-Ed, the first one was about the history of chess and the second one the history of corn.
 
-24/11/2019: I have started a new book: "The Charlemagne Pursuit". For what I have already read this thriller is about a former secret service agent, the mystery surrounding is father death, governement conspiracies and Charlemagne? The thematic of this book seems quite similar,in a certain way, to the thriller written by Dan Brown (author of "The Da Vinci Code", "Angel & Demon").
+24/11/2019: I have started a new book: "The Charlemagne Pursuit". For what I have already read this thriller is about a former secret service agent, the mystery surrounding is father death, governement conspiracies and Charlemagne? The thematic of this book seems quite similar,in a certain way, to the thrillers written by Dan Brown (author of "The Da Vinci Code", "Angel & Demon").
 
 09/11/2019: I nearly finished rereading "Norse Mythology" from Neil Gaiman. As I remembered the books is really interesting, the writter took inspiration from two olds translations: "Prose Edda" and "Poetic Edda" (respectivly written in the  XIII century). The last chapter that I read was about Loki's children and how their presence at the end of everything will bring demise to the gods.
 

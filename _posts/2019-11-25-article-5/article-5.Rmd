@@ -27,7 +27,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English | Translation in French|
 | ------------------- | ------------------------------ |------------|
-| 
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ## Analysis table
 
