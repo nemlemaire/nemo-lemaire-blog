@@ -10,9 +10,12 @@
       }
     ],
     "date": "2019-12-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-12-01T11:15:40+01:00"
+    "categories": [
+      "Synthetic surface",
+      "Plants"
+    ],
+    "preview": "posts/2019-11-25-article-5/spider.jpeg",
+    "last_modified": "2019-12-11T18:57:39+01:00"
   },
   {
     "path": "posts/2019-11-25-article-4/",
