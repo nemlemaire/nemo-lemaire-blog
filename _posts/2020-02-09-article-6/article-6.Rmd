@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kp5jyZtoTIg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kp5jyZtoTIg" frameborder="0" allowfullscreen></iframe>
 
 
 ## Article (URL) and word count
