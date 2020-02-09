@@ -14,7 +14,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Credit: test](https://www.youtube.com/watch?v=kp5jyZtoTIg)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kp5jyZtoTIg" frameborder="0" allowfullscreen></iframe>
+
 
 ## Article (URL) and word count
 
