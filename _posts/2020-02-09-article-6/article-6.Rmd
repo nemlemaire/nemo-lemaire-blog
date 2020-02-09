@@ -1,13 +1,10 @@
 ---
-title: "article-4: A polar-bear-inspired material for heat insulation"
+title: "article-6: Bats inspire detectors to help prevent oil and gas pipe leaks"
 author:
   - name: Némo Lemaire
-date: 11-25-2019
-categories:
-  - Mammals
-  - Heat insulation
-  - Synthetic surface
-preview: article-4_files/polar-bear.jpg
+date: 02-09-2020
+categories: 
+preview:
 output:
   distill::distill_article:
     self_contained: false
@@ -17,13 +14,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Credit: Polar Bears International](article-4_files/polar-bear.jpg)
+![Credit: test](https://www.youtube.com/watch?v=kp5jyZtoTIg)
 
 ## Article (URL) and word count
 
-* URL of the article: <https://www.sciencedaily.com/releases/2019/06/190606150317.htm> (06 June 2019)
+* URL of the article: <https://phys.org/news/2020-01-detectors-oil-gas-pipe-leaks.html> (30 January 2020)
 
-* Word: 475
+* Word: 665
 
 ## Vocabulary 
 
@@ -52,10 +49,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | University of Science and Technology of China (USTC); they range from chemistry professor to mechanical engineering professor: Hui-Juan Zhan, Kai-Jin Wu, Ya-Lin Hu, Jian-Wei Liu, Han Li, Xu Guo, Jie Xu, Yuan Yang, Zhi-Long Yu, Huai-Ling Gao, Xi-Sheng Luo, Jia-Fu Chen, Yong Ni, Shu-Hong Yu. |
-| Published in?                | Chem; under the name:"Biomimetic Carbon Tube Aerogel Enables Super-Elasticity and Thermal Insulation" (06/06/2019) |
-| General topic?               | The creation of heat insulator materials inspired by polar bear fur. |
-| Procedure/what was examined? | 1) Manufacture of millions of hollowed-out carbon tubes (each one of them equivalent to a single strand of polar bear's hair). 2) Coiling them together inside a spagethi-like aerogel block. |
-| Conclusions/discovery?       | The synthetics hollowed carbons tubes are lighter and more resistant to heat flow than other aerogel or insulation components. They are also hardly affected by water and, in comparison with the genuine polar bear's hair, are stretchier. |
-| Remaining questions?         | How can we bypass the size limitations of the carbon-tube materials in order to mass product them? |
+| Researchers                  |  |
+| Published in?                |  |
+| General topic?               |  |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |  |
+| Remaining questions?         |  |
 

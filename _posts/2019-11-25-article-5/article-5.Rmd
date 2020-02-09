@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Article (URL) and word count
 
-* URL of the article: <https://www.sciencedaily.com/releases/2019/09/190916101845.htm> (16 september 2019)
+* URL of the article: <https://www.sciencedaily.com/releases/2019/09/190916101845.htm> (16 September 2019)
 
 * Word: 390
 

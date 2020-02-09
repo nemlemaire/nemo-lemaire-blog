@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-09-article-6/",
+    "title": "article-6: Bats inspire detectors to help prevent oil and gas pipe leaks",
+    "description": {},
+    "author": [
+      {
+        "name": "Némo Lemaire",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-09T19:10:04+01:00"
+  },
+  {
     "path": "posts/2019-11-25-article-5/",
     "title": "article-5: Combination of wood fibers and spider silk could rival plastic",
     "description": {},
@@ -15,7 +30,7 @@
       "Plants"
     ],
     "preview": "posts/2019-11-25-article-5/spider.jpeg",
-    "last_modified": "2019-12-11T18:57:40+01:00"
+    "last_modified": "2020-02-09T18:18:52+01:00"
   },
   {
     "path": "posts/2019-11-25-article-4/",
@@ -34,7 +49,7 @@
       "Synthetic surface"
     ],
     "preview": "posts/2019-11-25-article-4/article-4_files/polar-bear.jpg",
-    "last_modified": "2019-12-01T14:33:37+01:00"
+    "last_modified": "2020-02-09T18:19:11+01:00"
   },
   {
     "path": "posts/2019-11-10-article-3/",
