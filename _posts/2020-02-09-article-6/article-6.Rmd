@@ -6,7 +6,7 @@ date: 02-09-2020
 categories: 
   - Mammals
   - Insulation
-preview: bat.jpeg
+preview: BATS.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Credit: Achim](bat.jpeg)
+![Credit: Achim](BATS.jpg)
 
 
 ## Article (URL) and word count
