@@ -4,7 +4,9 @@ author:
   - name: Némo Lemaire
 date: 02-09-2020
 categories: 
-preview:
+  - Mammals
+  - Insulation
+preview: bat.jpeg
 output:
   distill::distill_article:
     self_contained: false
@@ -14,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![]()
+![Credit: Achim](bat.jpeg)
 
 
 ## Article (URL) and word count
@@ -27,33 +29,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English | Translation in French|
 | ------------------- | ------------------------------ |------------|
-| Insulation | - / The act of covering something to stop heat, sound, or electricity from escaping. | Isolation |
-| Frigid | polar / Extremely cold. | Glacial |
-| Template | device / A system that can be copied by other. | Modèle |
-| To lock in | seal in / To keep inside, without allowing it to escape. | Verrouiller |
-| Insulator | nonconductor / A material from which heat or electricity cannot escape. | Isolant |
-|  To scale | - / To reproduce something at a greater or lower scale. | Produire à une plus grande ou plus petite échelle |
-| Aerogel | frozen smoke / A solid material (of extremely low density) produced by removing the liquid component from a conventional gel. | aérogel |
-| Analogous | akin / That have similar features. | Analogue |
-| Hollow | empty / An empty space inside something. | Creux |
-| Core | interior / The center of something | Noyau |
-| Coats | fur / The hair that cover an animal's body. | Pelage |
-| Outstanding | incredible / Excellent | Exceptionnel |
-| To emulate | to imitate / To imitate something in order to mimic its properties. | Imiter |
-| Strand of hair | Thread of hair / A single piece of hair. | Mèche de cheveux |
-| To wind | to coil / To twist something around something else. | Enrouler |
-| Heat flow | thermal flux  / Thermic energy (heat) that flows trough one's body, allowing its temperature to stay constant (in the case of homeotherms organisms). | Flux thermique |
-| Hardly | rarely / Nearly never. | Rarement |
-| Relevant | appropriate / Appropriate with the current thematic, goal. | Pertinent |
+| To corrode | To damage / To be damaged by the action of chemicals, generally over a long period of time. | Corroder |
+| Pipeline | Pipe / A long series of tube that travels underground and are used to trasport gas or oil over long distance. | Pipeline |
+| Wavelength | - / The distance between two wave of energy. | Longueur d'onde |
+| To leak | To escape / The escape of gas or liquid from a pipe due to a hole in the structure. | Fuiter |
+| Backscatter | Diffusive reflection / The reflection of particles or waves back to the direction they came from. | Diffusion des ondes |
+| To probe | To examinate / To investigate something in order to find hidden things. | Sonder |
+| To retain | To preserve / To keep something. | Conserver |
+| Beam | Ray / A ray of electromagnetic wave or particules. | Faisceau |
+| Defect | Flaw / A problem or error that get in the way and prevent the good functionning of something. | Défaut |
+| Array | Set / A group of things. | Eventail |
+| To yield | To produce / To provide something that can be use. | Produire |
+| Chirp | Sweep signal / High pitched sound produced, in this context, by bats which are able to bounce back to the ears of the bats. Allowing them to know the structure of their surroundings. | Ultrason |
+| Analogous | Similar / Similar to another things in term of properties. | Analogue |
 
 ## Analysis table
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  |  |
-| Published in?                |  |
-| General topic?               |  |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |  |
-| Remaining questions?         |  |
+| Researchers                  | Lancaster university - doctorate in engineering: Mauro Licata, Michael Aspinall, Manuel Bandala Sanchez, F. D. Cave, S Conway, D. Gerta, Helen Parker, Neil Roberts, Graeme Taylor, Malcolm Joyce |
+| Published in?                | Scientific Reports; under the name: "Depicting corrosion-born defects in pipelines with combined neutron/γ ray backscatter: a biometric approach" (01/07/20) |
+| General topic?               | Scientists have discovered that a combination of neutron and gamma ray could be used to detect leaks inside pipelines in a similar manner to the echolocation used by bats. |
+| Procedure/what was examined? | 1) The researchers tried to find out a way to detect corrosion in underground and isolated pipelines since the usual method of using electromagnetic or ultrasound aren't very practical for those. 2) They created a new technique, using the properties of both: neutron and gamma ray and their reflection. 3) Their new device produce a very thin beam of neutron and gamma ray and is capable of comparing the two electronic signals re-emitted by them.|
+| Conclusions/discovery?       | This system allowed them to distinguish the thickness of steel and even worked with insulating materials (such as concrete and plastic), furthermore, any leaks inside the steel would result in a variation in the backscatter (making their localisation a lot faster). The new device could also be used for bridges.|
+| Remaining questions?         | How can the speed of the system be improve. |
 

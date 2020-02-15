@@ -10,9 +10,12 @@
       }
     ],
     "date": "2020-02-09",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-02-09T19:26:07+01:00"
+    "categories": [
+      "Mammals",
+      "Insulation"
+    ],
+    "preview": "posts/2020-02-09-article-6/bat.jpeg",
+    "last_modified": "2020-02-15T15:53:40+01:00"
   },
   {
     "path": "posts/2019-11-25-article-5/",
@@ -45,11 +48,11 @@
     "date": "2019-11-25",
     "categories": [
       "Mammals",
-      "Heat insulation",
+      "Insulation",
       "Synthetic surface"
     ],
     "preview": "posts/2019-11-25-article-4/article-4_files/polar-bear.jpg",
-    "last_modified": "2020-02-09T18:19:12+01:00"
+    "last_modified": "2020-02-15T15:53:48+01:00"
   },
   {
     "path": "posts/2019-11-10-article-3/",
