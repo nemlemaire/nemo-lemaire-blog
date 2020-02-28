@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2020-02-28-article-7/",
+    "title": "article-7: Octopus-inspired robot can grip, move, and manipulate a wide range of objects",
+    "description": {},
+    "author": [
+      {
+        "name": "Némo Lemaire",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-28",
+    "categories": [
+      "Mollusca",
+      "Synthethic surface"
+    ],
+    "preview": "posts/2020-02-28-article-7/octopus.jpg",
+    "last_modified": "2020-02-28T16:12:25+01:00"
+  },
+  {
     "path": "posts/2020-02-09-article-6/",
     "title": "article-6: Bats inspire detectors to help prevent oil and gas pipe leaks",
     "description": {},

@@ -1,0 +1,22 @@
+Of all the cool things about octopuses (and there's a lot), their arms may rank among the coolest.
+
+Two-thirds of an octopus's neurons are in its arms, meaning each arm literally has a mind of its own. Octopus arms can **untie** **knots**, open childproof bottles, and wrap around prey of any shape or size. The hundreds of **suckers** that cover their arms can form strong **seals** even on rough surfaces underwater.
+                                        Imagine if a robot could do all that.
+
+Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) and Beihang University have developed an octopus-inspired soft robotic arm that can grip, move, and manipulate a wide range of objects. Its flexible, **tapered** design, complete with suction cups, gives the gripper a firm **grasp** on objects of all shapes, sizes and textures -- from eggs to iPhones to large exercise balls.
+                                        
+"Most previous research on octopus-inspired robots focused either on mimicking the suction or the movement of the arm, but not both," said August Domel, a recent PhD graduate of Harvard and co-first author of the paper. "Our research is the first **to quantify** the tapering angles of the arms and the combined functions of **bending** and suction, which allows for a single small gripper to be used for a wide range of objects that would otherwise require the use of multiple grippers."
+                                        
+The research is published in Soft Robotics.
+                                        
+The researchers began by studying the tapering angle of real octopus arms and quantifying which design for bending and grabbing objects would work best for a soft robot. Next, the team looked at the **layout** and structure of the suckers (yes, that is the scientific term) and incorporated them into the design.
+                                        
+"We mimicked the general structure and distribution of these suckers for our soft **actuators**," said co-first author Zhexin Xie, a PhD student at Beihang University. "Although our design is much simpler than its biological **counterpart**, these vacuum-based biomimetic suckers can attach to almost any object."
+                                        
+Xie is the co-inventor of the Festo Tentacle Gripper, which is the first fully integrated implementation of this technology in a commercial prototype.
+                                        
+Researchers control the arm with two **valves**, one to apply pressure for bending the arm and one for a vacuum that engages the suckers. By changing the pressure and vacuum, the arm can attach to an object, wrap around it, carry it, and release it.
+                                        
+The researchers successfully tested the device on many different objects, including thin plastic sheets, coffee mugs, test tubes, eggs, and even live crabs. The tapering also allowed the arm to squeeze into confined spaces and **retrieve** objects.
+                                        
+"The results from our study not only provide new **insights** into the creation of next-generation soft robotic actuators for gripping a wide range of morphologically diverse objects, but also contribute to our understanding of the functional significance of arm taper angle variability across octopus species," said Katia Bertoldi, the William and Ami Kuan Danoff Professor of Applied Mechanics at SEAS, and co-senior author of the study.
