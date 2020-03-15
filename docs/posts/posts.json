@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-03-15-article-8/",
+    "title": "article-8:Repairing actively pumping heart tissue with mussel-inspired tissue adhesive ",
+    "description": {},
+    "author": [
+      {
+        "name": "Némo Lemaire",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-15",
+    "categories": [
+      "Mollusca"
+    ],
+    "preview": "posts/2020-03-15-article-8/mussel.jpg",
+    "last_modified": "2020-03-15T21:27:27+01:00"
+  },
+  {
     "path": "posts/2020-02-28-article-7/",
     "title": "article-7: Octopus-inspired robot can grip, move, and manipulate a wide range of objects",
     "description": {},
@@ -12,10 +29,10 @@
     "date": "2020-02-28",
     "categories": [
       "Mollusca",
-      "Synthethic surface"
+      "Synthetic surface"
     ],
     "preview": "posts/2020-02-28-article-7/octopus.jpg",
-    "last_modified": "2020-02-28T16:17:41+01:00"
+    "last_modified": "2020-03-15T21:26:09+01:00"
   },
   {
     "path": "posts/2020-02-09-article-6/",
